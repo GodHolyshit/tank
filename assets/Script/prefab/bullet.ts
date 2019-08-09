@@ -54,6 +54,7 @@ export default class bullet extends cc.Component {
     }
 
     update(dt) {
+         // (！this.touchPos)  值为false, 下一次的this.touchPos的值不会影响上一个子弹的角度。（相当于屏蔽了this.touchPos值的修改）
         if (!this.touchPos) {
             return;
         }
