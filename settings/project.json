@@ -1,0 +1,63 @@
+{
+  "collision-matrix": [
+    [
+      false
+    ],
+    [
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      true,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      true,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  ],
+  "design-resolution-height": 750,
+  "design-resolution-width": 1334,
+  "excluded-modules": [],
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "fit-height": true,
+  "fit-width": false,
+  "group-list": [
+    "default",
+    "tank",
+    "ufo",
+    "bullet",
+    "wall"
+  ],
+  "last-module-event-record-time": 0,
+  "simulator-orientation": false,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "start-scene": "40632ed3-3c29-488f-b826-7f135ce118dc",
+  "use-customize-simulator": false,
+  "use-project-simulator-setting": false
+}
